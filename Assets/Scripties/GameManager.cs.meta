@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bf0bc30665fa1f24795b68ce6600980c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerStats: {fileID: 11400000, guid: 7c4c0c7c695a8471e9edabfcd33c4047, type: 2}
+  - treePrefab: {fileID: 1465570266625963205, guid: 4aa43e963f780f94d978d077a34dba8e,
+      type: 3}
+  - plotPrefab: {fileID: 5408581700788492947, guid: cf54bd93ee52c93409bf7aa737d859d0,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
